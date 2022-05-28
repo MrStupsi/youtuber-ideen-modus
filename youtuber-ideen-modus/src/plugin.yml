@@ -1,0 +1,12 @@
+name: youtuberideenmodus
+main: de.hglabor.youtuberideen.YoutuberIdeen
+version: 2.0.0
+authors:
+  - NoRisk
+  - MrStupsi
+api-version: 1.18
+commands:
+  start:
+    usage: /start
+  forcestart:
+    usage: /forcestart
